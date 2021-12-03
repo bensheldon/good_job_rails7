@@ -10,6 +10,7 @@ gem "rails", "~> 7.0.0.alpha2"
 gem "pg", "~> 1.1"
 
 gem 'good_job'
+gem 'mobility', '~> 1.2.4'
 
 # Use the Puma web server [https://github.com/puma/puma]
 gem "puma", "~> 5.0"
